@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "585293266624",
+    "firebase_url": "https://gglfrmworks.firebaseio.com",
+    "project_id": "gglfrmworks",
+    "storage_bucket": "gglfrmworks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585293266624:android:26662ae62c0205f4",
+        "android_client_info": {
+          "package_name": "app.project.gglfrmworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585293266624-ttvlhsks8fr63uppqi30dnlmvfd6ni4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXMuDFPqAIQbPPuGoSLEIdKiUO8zAJ9WA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585293266624-ttvlhsks8fr63uppqi30dnlmvfd6ni4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
